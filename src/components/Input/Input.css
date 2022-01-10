@@ -1,0 +1,28 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.labelText {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  color: #f1f4f7;
+}
+
+.styledInput {
+  background: #c3e0fd;
+  border-radius: 100px;
+  color: #4d2c91;
+  padding: 10px 12px;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  outline: none;
+}
